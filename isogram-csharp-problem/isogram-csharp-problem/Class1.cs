@@ -37,11 +37,11 @@ namespace isogram_csharp_problem
             }
         if (k == 1)
             {
-            return false;
+            return false;   //returns bool value false
             }
         else
             {
-            return true;
+            return true;    //returns bool value true
             }
         }
     }
